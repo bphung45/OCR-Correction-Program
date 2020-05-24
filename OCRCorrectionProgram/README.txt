@@ -1,5 +1,6 @@
 OCR Correction Program
 Coded by Ben Phung, Ed Ruiz, and Ned Watson
+*uses Racket as main coding lanuage
 
 This program uses matrix algorithms as well as the Levenshtein distance to calculate
 the best replacement of a misspelled word by factoring in frequency and proximity to 
